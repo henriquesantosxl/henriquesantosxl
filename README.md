@@ -1,14 +1,14 @@
-﻿# Olá, sou o Henrique 👋
+﻿# Hi, I'm Henrique 👋
 
-Desenvolvedor em **Recife, PE**. Estudo e crio projetos com **Java** e **JavaScript** e compartilho o que aprendo sobre programação no Instagram.
+Software developer based in **Recife, Brazil**. I build projects with **Java** and **JavaScript** and share what I learn about programming on Instagram.
 
 📸 Instagram: [@henriquecdsdev](https://www.instagram.com/henriquecdsdev/)
 
-## Projetos em destaque
+## Featured projects
 
-- [**sorveteria-polo-norte**](https://github.com/henriquesantosxl/sorveteria-polo-norte): sistema de balcão de sorveteria em Java (console), aplicando os padrões Factory Method, State, Strategy e Decorator.
+- [**sorveteria-polo-norte**](https://github.com/henriquesantosxl/sorveteria-polo-norte): ice cream shop counter system in Java (console app), applying the Factory Method, State, Strategy and Decorator design patterns.
 
-## Tecnologias
+## Tech
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
